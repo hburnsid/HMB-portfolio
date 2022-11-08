@@ -8,9 +8,9 @@ I'm a second year graduate student at Carnegie Mellon University studying public
 I'm very excited to merge my previous background of art history where I learned a great deal about aesthetics and design and with my new knowledge of data analysis to create more effective and enganging data visualizations. I've found that many organizations would love to implement more data into their work and utilizing visualizations is a great tool to further push those initiatives. I'm also looking forward to learning certain programs like Tableau and Github as I've seen others using them and have not had the chance to do so. 
 
 # Assignment: Visualizing Government Debt
-<div class="flourish-embed flourish-chart" data-src="visualisation/11734888"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
+[Click Here to see assignment 2](/dataviz2.md)
 
-This chart visualizes the worldwide Debt-to-GDP ratio. Each country is listed side by side to compare which countires are have a lower ratio, and therefore less overall debt, which usually indicates an economically functioning country. 
+Explore the different ways to examine worldwide debt through different data visualizations.
 
 # Assignment 2
 TBD
