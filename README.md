@@ -7,13 +7,13 @@ I'm a second year graduate student at Carnegie Mellon University studying public
 # What I hope to Learn
 I'm very excited to merge my previous background of art history where I learned a great deal about aesthetics and design and with my new knowledge of data analysis to create more effective and enganging data visualizations. I've found that many organizations would love to implement more data into their work and utilizing visualizations is a great tool to further push those initiatives. I'm also looking forward to learning certain programs like Tableau and Github as I've seen others using them and have not had the chance to do so. 
 
-# Assignment: Visualizing Government Debt
+# Assignment 2: Visualizing Government Debt
 [Click Here to see assignment 2](https://hburnsid.github.io/dataviz2/)
 
 Explore the different ways to examine worldwide debt through different data visualizations.
 
-# Assignment 2
-TBD
+# Assignment 3 and 4: Critique by Design
+[Click Here to explore my redesign of a visualization of world GDP](https://hburnsid.github.io/HMB-portfolio/Assignment3and4.html)
 
 # Final Project
 TBD
