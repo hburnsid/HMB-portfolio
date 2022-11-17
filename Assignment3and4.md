@@ -4,7 +4,7 @@
 
 For this assignment I was interested in picking a topic that would be related to economic trends and found a wealth of data visualizations about GDP as there is a considerable amount of data collected on this. I liked the idea of examining the different ways that GDP can be compared, between countries, regions, and at a global scale. This visualization created by HowMuch.net, a financial literacy website, uses data from the World Bank to create its visualization. 
 
-<iframe src="https://cdn.howmuch.net/articles/world-economy-by-gdp-2017-7c32.png"></iframe>
+![Source:[HowMuch.net](https://howmuch.net/articles/the-world-economy-2017)](https://cdn.howmuch.net/articles/world-economy-by-gdp-2017-7c32.png)
 
 ## Step 2: Critique the visualization
 
