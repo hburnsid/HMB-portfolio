@@ -32,7 +32,7 @@ I liked the use of a sliding scale for some of the measurements because they all
 
 ## Step 3: Sketch out a solution
 
-<blockquote class="imgur-embed-pub" lang="en" data-id="a/agPTJFY" data-context="false" ><a href="//imgur.com/a/agPTJFY"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
+<blockquote class="imgur-embed-pub" lang="en" data-id="agPTJFY"  ><a href="//imgur.com/agPTJFY">post</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
 
 [Imgur](https://i.imgur.com/VgDRZ4v.jpg)
 
