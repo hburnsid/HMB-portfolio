@@ -10,13 +10,16 @@ For this assignment I was interested in picking a topic that would be related to
 
 After assigning different visual and storytelling elements of the visualization, I used these questions to help guide my critique. 
 
-1. Describe your overall observations about the data visualization here.  What stood out to you?  What did you find worked really well?  What didn't?  What, if anything, would you do differently? 
-
-The data visualization is extremely cluttered and visually demanding. When I first looked at the visualization, I was overwhelmed by the amount of color used in the chart to describe the different regions. I was also drawn to the United States in the visualization because the text for that section was the largest, and the color used was brighter than the others, which stood out. The shapes used for each country also stood out to me because at first, I thought the visualization was a pie chart, but then I realized that it was actually a kind of bubble chart, where the different shapes represented the size of the world GDP. 
+Critique Question  | Answer
+------------- | -------------
+Describe your overall observations about the data visualization here.  What stood out to you?  What did you find worked really well?  What didn't?  What, if anything, would you do differently? | The data visualization is extremely cluttered and visually demanding. When I first looked at the visualization, I was overwhelmed by the amount of color used in the chart to describe the different regions. I was also drawn to the United States in the visualization because the text for that section was the largest, and the color used was brighter than the others, which stood out. The shapes used for each country also stood out to me because at first, I thought the visualization was a pie chart, but then I realized that it was actually a kind of bubble chart, where the different shapes represented the size of the world GDP. 
 
 I think bringing the different countries close together was slightly useful for making a simple side-by-side comparison. Coupled with the use of color to distinguish regions, a high-level analysis isn't terribly difficult to understand, but when looking closer at the visualization, it becomes clear that any real comparisons and analysis would be incorrect because the data have been misrepresented visually. 
 
 There are many elements that do not work with this visualization. The first is the organization of the data. Forcing every country into a circle is unnecessary and confusing to the reader as they have to determine what is happening with the different shapes. Furthermore, the text of many countries with smaller GDPs is very hard to read because the font size is inconsistent to fit each shape into the circle. There are more inconsistencies with the shapes as they are irregular and do not actually correspond to the amount of GDP. For example, the Philippines and Pakistan are essentially the same proportion of GDP (0.39% and 0.38%, respectively) but are different shapes with seemingly different areas. The irregular shapes make it impossible to truly compare within regions or across different regions. It is also very difficult to rank the top 10 countries as after a certain percentage of GDP, most of the top-ranking countries do not stand out from the smaller countries. This format also gives a truncated picture as there are many countries that are left out and would contribute to the overall size of the regional GDP designations with the use of "other countries" that encompasses many countries from all regions. 
+Content Cell  | Content Cell
+
+ 
 
 2. Who is the primary audience for this tool?  Do you think this visualization is effective for reaching that audience?  Why or why not? 
 
