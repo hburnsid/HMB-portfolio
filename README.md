@@ -16,4 +16,6 @@ Explore the different ways to examine worldwide debt through different data visu
 [Click Here to explore my redesign of a visualization of world GDP](https://hburnsid.github.io/HMB-portfolio/Assignment3and4.html)
 
 # Final Project
-TBD
+
+## Part I
+[Click here to see Part I of my final project](https://hburnsid.github.io/HMB-portfolio/part1_finalproject_HMB.html)
