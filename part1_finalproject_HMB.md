@@ -8,7 +8,7 @@ Despite increased awareness, attention, and policies related to police brutality
 ### Story Arc
 As illustrated in my project structure, I would like to start the presentation by presenting the assumptions that have been displayed prominately on the news, especially the uprising that began after defund the police was introduced in Minneapolis after the death of George Floyd. I will then explain the issue in more general terms by demonstrating trends in policy brutality and who is diproportionately affected. I will then discuss the lack of impacts of some of these policy interventions and stress how continuing to implement policies like body cameras will not protect citizens. Lastly, I will introduce policies that should be implemented that have a great deal of potential to reduce police brutality. 
 
-<iframe src="https://drive.google.com/file/d/1Mh3SjnZFrmKqCO6eqgBMAfJhqxSWv5zp" width="640" height="480"></iframe>
+<iframe src="https://drive.google.com/file/d/1Mh3SjnZFrmKqCO6eqgBMAfJhqxSWv5zp/preview" width="640" height="480" allow="autoplay"></iframe>
 
 ## Initial Sketches
 <iframe src="https://drive.google.com/file/d/1YZzi4io9-LLdntgvac7Xe9r5a4xAKrFW/preview" width="640" height="480" allow="autoplay"></iframe>
@@ -17,6 +17,11 @@ As illustrated in my project structure, I would like to start the presentation b
 
 <iframe src="https://drive.google.com/file/d/17rDV9GFlz_IbWeubEUG7AKhHI4ZiMizV/preview" width="640" height="480" allow="autoplay"></iframe>
 
+<iframe src="https://drive.google.com/file/d/1tEIn-5h-QK7KQIb838CW1uq2TNmy63UV/preview" width="640" height="480" allow="autoplay"></iframe>
+
+<iframe src="https://drive.google.com/file/d/1hE6MuXeezBO0OF_4fclOuRJsp4l7dQ5i/preview" width="640" height="480" allow="autoplay"></iframe>
+
+<iframe src="https://drive.google.com/file/d/1hHS-e-zuyqYA6OIFT7LZUXFK0eaHC2qY/preview" width="640" height="480" allow="autoplay"></iframe>
 
 
 
