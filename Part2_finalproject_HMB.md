@@ -20,3 +20,9 @@ I will then go into visualization 1.
 This visualization shows a map of the U.S. with different colors representing different levels of funding in place and laws that exist or require body cameras. 
 
 After this I will have another image with text that scrolls over that reads, in 2017 alone, the federal government provided over $40 million dollars to police programs to invest in body cameras.
+
+https://unsplash.com/photos/9wXvgLMDetA
+
+I will then show visualization 2, which shows a pie chart with public opinion of bodycams to demonstrate that across both polical parties legislators and citizens support the usage of body cameras. 
+
+<div class="flourish-embed flourish-chart" data-src="visualisation/12040249"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
