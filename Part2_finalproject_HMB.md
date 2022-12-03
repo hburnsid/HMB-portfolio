@@ -90,6 +90,8 @@ She felt that the intended audience would be the general public and policymakers
 
 ## Next Steps
 
+After getting this feedback, I plan on implementing a good amount of the critiques. I'm going to remove the demographics of the stacked bar chart because I feel the information was not adding to the overall takeaway, which is that deaths have remained the same over the years. The color scheme I used and the missing data points distracted from the overall message. I will also add the data points for the before/after implementation bar chart, but leave them out for the pie chart, as I feel they are not relevant to understaning the point, especially because it seems like many people are aware of this information. For the last map, I will include more specific langauge targted at policyakers to make it know that the information is supposed to be used by them. I will also refine my titles and color schemes. 
+
 
 
 
