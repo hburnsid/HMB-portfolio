@@ -46,3 +46,50 @@ For my last section I will discuss what can be done to mitigate the dissapointin
 For my call to action, I will introduce this map that will provide a rating for each state based on the number of passed or in-progress bills that correspond to the eight recommendations. When the reader hovers over each state, a text box will indicate which legislation is in progress and which has been passed already. This map is meant to show the progress that is being made, and the work that still needs to be done. Given these resources, policymakers have actionable tasks for their respective states.
 
 <iframe src="https://drive.google.com/file/d/1hE6MuXeezBO0OF_4fclOuRJsp4l7dQ5i/preview" width="640" height="480" allow="autoplay"></iframe>
+
+## User Feedback
+
+# Target Audience
+I intend to interview other prospective policymakers and people who have experience in policy-adjacent fields. I am interested in these opinions as this is my target audience for my presentation and I want to be sure that they can read it and understand what to do afterwards in their own work and recommend policies to colleagues. 
+
+# Identifying Approach
+To find the right people, I decided to talk to policymakers in the field, other classmates who are prospective policymakers, or professionals that work in similar fields. I also wanted to choose people that had some cursory knowledge of the issue but did not have experience working in police related policy reform so the information would have the most impact. 
+
+# Interview Script
+1. For each visualization tell me what you see and if there are any areas of confusion.
+2. Was this information something you had not previously encountered? 
+3. What is something you want clarification on or wish there was more detail about?
+4. Who do you believe is the target audience for this presentation?
+
+***Young Professional, 26***
+The fist respondant felt that overall the visualizations were easy to read and very straight forward. She felt that each type of visualization made sense in the context used and did not have difficulty understanding the information they were conveying. For the stacked bar chart depicting deaths she felt that the colors may be too close as she had some trouble telling the different races apart. She also wanted to know why the demographic information was included and spent some time trying to understand that. 
+
+She felt that she had a good sense of the issue and was not generally suprised by the overall findings. She was surprised at how much funding went into bodycams, she said she felt enraged seeing the figure. 
+
+She felt that she didn't need any clarificaton, but wanted to know more information about why exactly bodycams are not working. She wanted to see what about them or the system at large made them fail as an intervention. 
+
+When asked about the target audience, she believed that this information was intended for voting-age constituents to inform them about the failures associated with bodycams. 
+
+***policymaker, 35***
+The second respondent felt that some of the colors may be difficult to see for colorblind users and that if the visualizations were reprpoduced in black and white they would be diffifuclt to see. She liked the organizational structure of the visualizations and felt they were logical. She mentioned that she didn't like pie charts in general, and that this one was not providing much information, especially since she already knew that most people supported body cams. She liked the call to action aesthetics and felt that it would be good for someone who skimmed. 
+
+This respondent was also surprised by the amount of money spent on funding for bodycams. She was also interested in seeing the breakdown of demographics of police killings to see how they had changed over time. 
+
+On further inspection, she realized the high number of deaths with the demogrpahics "unknown" and "other" and wanted to know what that meant and why they weren't assigned a race. She also felt that for the last map in the call to action section that the title should be changed to refelt something more proactive for policymakers. 
+
+She also agreed that the audience for this presentation was an average voter, but added that this would be very helpful for policymakers as well. 
+
+***prospective policymaker, 23***
+The last respondant said tht some of the titles needed work with redundancy, like repeating the word police force. She also wanted more context on labeling for some of the visualization like adding more information about the funding map and adding the word death to the stacked bar chart to make the graph have a more human element. She also warned of using colors that were too close together and too dark, as they were hard to tell apart. 
+
+This respondent was surprised that body cameras had shown reducting in injury, but overall was not shocked by the information in the rest of the presentation. 
+
+For the pie chart, she recommended adding the percentages to each proportion. She wanted some more information related to the number of injuries decreasing with the implementation of body cams. Because she felt this was surprising she wanted to know what the literature speculated was the reason for this occurring. 
+
+She felt that the intended audience would be the general public and policymakers, both to inform them on the issue at hand. 
+
+## Next Steps
+
+
+
+
