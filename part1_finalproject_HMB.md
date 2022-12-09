@@ -1,4 +1,4 @@
-# Part I: Final Project 
+# Part 1: Final Project 
 
 [Final Project Part 2](https://hburnsid.github.io/HMB-portfolio/Part2_finalproject_HMB.html)
 
