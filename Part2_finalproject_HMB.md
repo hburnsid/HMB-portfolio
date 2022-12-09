@@ -1,4 +1,9 @@
 # Final Project Part 2
+
+[Final Project Part 1](https://hburnsid.github.io/HMB-portfolio/part1_finalproject_HMB.html)
+
+[Final Project Part 3](https://hburnsid.github.io/HMB-portfolio/part3_finalproject_HMB.html)
+
 ## Storyboard Outline
 ### Background
 I will begin my presentation with an overview of police brutality and body cameras. 
