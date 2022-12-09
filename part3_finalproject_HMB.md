@@ -4,7 +4,7 @@
 
 [Final Project Part 2](https://hburnsid.github.io/HMB-portfolio/part2_finalproject_HMB.html)
 
-Access my Shorthand Story:[Understanding the Impact of Body Cameras](https://carnegiemellon.shorthandstories.com/understanding-the-impact-of-body-cameras/index.html)
+Access my Shorthand Story: [Understanding the Impact of Body Cameras](https://carnegiemellon.shorthandstories.com/understanding-the-impact-of-body-cameras/index.html)
 
 ## Implemented Changes
 
