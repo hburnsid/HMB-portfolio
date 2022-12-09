@@ -1,5 +1,9 @@
 # Part I: Final Project 
 
+[Final Project Part 2](https://hburnsid.github.io/HMB-portfolio/Part2_finalproject_HMB.html)
+
+[Final Project Part 3](https://hburnsid.github.io/HMB-portfolio/part3_finalproject_HMB.html)
+
 ## Story Outline
 
 ### Summary
