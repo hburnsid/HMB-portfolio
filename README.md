@@ -21,9 +21,9 @@ Explore the different ways to examine worldwide debt through different data visu
 [Click here to see Part 1 of my final project](https://hburnsid.github.io/HMB-portfolio/part1_finalproject_HMB.html)
 
 
-## Part 2
+## Part 2: Final project wireframes, storyboards, and user research
 [Click here to see Part 2 of my final project](https://hburnsid.github.io/HMB-portfolio/part2_finalproject_HMB.html)
 
 
-## Part 3
+## Part 3: Final project and presentation
 [Click here to see Part 3 of my final project](https://hburnsid.github.io/HMB-portfolio/part3_finalproject_HMB.html)
